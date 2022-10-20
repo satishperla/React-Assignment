@@ -1,0 +1,14 @@
+.navitems {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.menu-content {
+    width: 145px;
+    height: 20px;
+    background-color: grey;
+    padding-top: 20px;
+    margin-left: 10px;
+}

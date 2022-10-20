@@ -1,0 +1,37 @@
+.content {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.main-content {
+    width: 50rem;
+    height: 260px;
+    background-color: grey;
+    margin-right: 20px;
+
+}
+
+h2 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.quick-links {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.list1 {
+    width: 15rem;
+    height: 100px;
+    background-color: grey;
+    margin-bottom: 15px;
+}
+
+.list2 {
+    width: 15rem;
+    height: 140px;
+    background-color: grey;
+}
