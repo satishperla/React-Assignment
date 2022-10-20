@@ -1,0 +1,12 @@
+.styling{
+    width: 40%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    border-radius: 50%;
+    border:5px solid blue;
+    outline: 5px solid blue;
+}
