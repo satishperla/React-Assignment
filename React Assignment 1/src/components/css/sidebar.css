@@ -1,0 +1,17 @@
+.sidebar-items{
+    display: flex;
+    flex-direction: column;
+    
+}
+.sidebar-itemname{
+    padding: 5px;
+    border: 4px solid rgb(20, 236, 59);
+    background-color: skyblue;
+}
+.sidebar{
+    border: 4px solid orange;
+    width: 150px;
+    padding: 15px;
+    margin-left: 15px;
+    height: 220px;
+}

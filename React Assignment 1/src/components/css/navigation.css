@@ -1,0 +1,12 @@
+.navitems{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.itemname{
+    padding: 15px;
+    border: 2px solid rgb(91, 196, 231);
+    border-bottom: 4px solid rgb(91, 196, 231);
+    background-color: yellow;
+    width: 150px;
+}
